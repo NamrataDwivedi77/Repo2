@@ -29,6 +29,7 @@ public class SplitString
 	  System.out.print(rev);
 	  
 	  System.out.println("Git testing");
+	    System.out.println("Tester 2");
   }
 
      
